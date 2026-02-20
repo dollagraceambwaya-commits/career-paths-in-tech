@@ -20,7 +20,7 @@ Each section explains the role, required skills, tools used, and career growth o
 <!-- [Dolla] will write this section -->
 
 ## UX Designer
-<!-- [Martin] will write this section -->## UX Designer
+<!-- [Martin] will write this section -->
 
 ## Cybersecurity Analyst
 <!-- [Patrick] will write this section -->
