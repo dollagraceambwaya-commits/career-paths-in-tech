@@ -1,5 +1,5 @@
 # career-paths-in-tech
-A collaborative guide by Lucy Wachu Kariuki, Dolla Grace, Patrick
+A collaborative guide by Lucy Wachu Kariuki, Dolla Grace, Martin Mburu Kinyanjui
 ## Table of contents 
 -[Introduction](#introduction)
 -[Software Developer](#Lucy)
