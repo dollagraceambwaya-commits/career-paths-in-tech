@@ -3,8 +3,8 @@ A collaborative guide by Lucy Wachu Kariuki, Dolla Grace, Patrick
 ## Table of contents 
 -[Introduction](#introduction)
 -[Software Developer](#Lucy Wachu Kariuki)
--[Data Scientist](Dolla Grace)
--[UX Designer](Patrick)
+-[Data Scientist](#Dolla Grace)
+-[UX Designer](#Patrick)
 ## Introduction
 The tech industry offers many exciting and rewarding career paths. From building applications to analyzing data and designing user experiences, tech careers shape the modern world.
 In this project, we explore three important roles in the tech industry:
