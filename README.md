@@ -19,8 +19,37 @@ Each section explains the role, required skills, tools used, and career growth o
 <!-- [Dolla] will write this section -->
 
 ## UX Designer
-<!-- [Martin] will write this section -->
+## UX Designer
 
+A UX Designer focuses on creating meaningful and enjoyable experiences for users when they interact with products such as websites and mobile apps.
+
+### Responsibilities
+- Research user needs and behavior
+- Create wireframes and prototypes
+- Design intuitive interfaces
+- Test designs with users
+- Work with developers to implement designs
+
+### Skills Required
+- Creativity and problem solving
+- Understanding of user psychology
+- Wireframing and prototyping
+- Communication skills
+- Attention to detail
+
+### Tools Used
+- Figma
+- Adobe XD
+- Sketch
+- Canva
+- Miro
+
+### Career Growth
+A UX Designer can grow into roles like:
+- Senior UX Designer
+- Product Designer
+- UX Researcher
+- UX Lead
 
 
 
