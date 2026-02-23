@@ -24,6 +24,15 @@ Each section explains the role, required skills, tools used, and career growth o
 
 ## Cybersecurity Analyst
 <!-- [Patrick] will write this section -->
+## Resources
+
+Here are some useful resources for learning about tech careers:
+
+- https://www.freecodecamp.org/
+- https://developer.mozilla.org/
+- https://skills.github.com/
+- https://pll.harvard.edu/course/cs50-introduction-computer-science
+
 
 
 
