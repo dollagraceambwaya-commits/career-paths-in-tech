@@ -17,7 +17,6 @@ Each section explains the role, required skills, tools used, and career growth o
 <!-- [Lucy] will write this section -->
 
 ## Data Scientist
-## Data Scientist
 
 A **Data Scientist** is a professional who works with data to discover useful information. They collect, analyze, and interpret large datasets to help solve problems.
 
