@@ -16,6 +16,9 @@ Each section explains the role, required skills, tools used, and career growth o
 ## Software Developer
 <!-- [Lucy] will write this section -->
 
+
+- AI-assisted coding tools
+- Growth in cloud-native development and microservices.
 ## Data Scientist
 ## Data Scientist
 
@@ -44,11 +47,22 @@ Data Scientists often say that "data is the new oil," because it powers modern d
 ### Extra Note
 This line was added to test commits.
 
+
+- Ethical AI
+- Expansion of automated machine learning (AutoML).
+
 ## UX Designer
 <!-- [Martin] will write this section -->
 
+
+- AR/VR experiences
+- Voice and gesture-based interfaces gaining popularity.
 ## Cybersecurity Analyst
 <!-- [Patrick] will write this section -->
+
+
+- Cybersecurity focus
+
 ## Resources
 
 Here are some useful resources for learning about tech careers:
