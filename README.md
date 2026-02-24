@@ -35,6 +35,13 @@ Here are some useful resources for learning about tech careers:
 
 
 
+## Career Path Comparison Table
+
+| Career Path        | Responsibilities                                                                 | Key Skills                          | Tools & Technologies                  | Career Growth Opportunities                  |
+|--------------------|----------------------------------------------------------------------------------|-------------------------------------|----------------------------------------|----------------------------------------------|
+| Software Developer | Build and maintain software applications; write, test, and debug code            | Programming, problem-solving, teamwork | IDEs (VS Code, IntelliJ), Git, Java, Python | Senior Developer, Tech Lead, Software Architect |
+| Data Scientist     | Collect, analyze, and interpret data; build models to solve business problems    | Statistics, machine learning, data visualization | Python, R, SQL, TensorFlow, Jupyter Notebook | Senior Data Scientist, ML Engineer, Data Science Manager |
+| UX Designer        | Design user-friendly interfaces; conduct user research and usability testing     | Design thinking, prototyping, communication | Figma, Sketch, Adobe XD, InVision        | Senior UX Designer, Product Designer, UX Lead |
 
 
 
