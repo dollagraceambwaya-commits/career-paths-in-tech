@@ -1,4 +1,4 @@
-# career-paths-in-tech
+Linkreer-paths-in-tech
 A collaborative guide by Lucy Wachu Kariuki, Dolla Grace, Martin Mburu Kinyanjui,Patrick Ngige Njoroge
 ## Table of contents 
 -[Introduction](#introduction)
@@ -47,7 +47,22 @@ This line was added to test commits.
 <!-- [Martin] will write this section -->
 
 ## Cybersecurity Analyst
-<!-- [Patrick] will write this section -->
+<A cyber security analyst is like a digital guardian 🛡️. They're responsible for protecting an organization's computer systems and networks from cyber threats like hackers, malware, and data breaches.
+
+*Key responsibilities:*
+
+- Monitor systems for security breaches and incidents
+- Conduct vulnerability assessments and penetration testing
+- Implement security measures like firewalls and encryption
+- Develop incident response plans
+- Stay updated on latest threats and trends
+
+*Skills needed:*
+
+- Technical knowledge of networks, systems, and security tools
+- Analytical and problem-solving skills
+- Communication skills to explain tech stuff to non-tech folks
+- Certifications like CompTIA Security+ or CISSP are a plus.
 ## Resources
 
 Here are some useful resources for learning about tech careers:
