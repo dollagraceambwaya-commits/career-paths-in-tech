@@ -52,7 +52,7 @@ A cyber security analyst is like a digital guardian 🛡️. They're responsible
 *Key responsibilities:*
 
 - Monitor systems for security breaches and incidents
-- cybAnalystrityyrityystrity vulnerability assessments and penetration testing
+- Conduct vulnerability assessments and penetration testing
 - Implement security measures like firewalls and encryption
 - Develop incident response plans
 - Stay updated on latest threats and trends
