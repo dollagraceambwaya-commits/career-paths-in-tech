@@ -1,6 +1,7 @@
 Ar-paths-in-tech
-A collaborative guide by Lucy Wachu Kariuki, Dolla Grace, Martin Mburu Kinyanjui,Patrick Ngige Njoroge
-## Table of contents 
+A collaborative guide by Lucy Wachu Kariuki, Dolla Grace, Martin Mburu Kinyanjui,Patrick Ngigi Njoroge 
+
+# Table of ccontents
 -[Introduction](#introduction)
 -[Software Developer](#Lucy)
 -[Data Scientist](#DollaGrace)
