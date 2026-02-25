@@ -47,12 +47,12 @@ This line was added to test commits.
 <!-- [Martin] will write this section -->
 
 ## Cybersecurity Analyst
-A cybAnalystrity analyst is like a digital guardian 🛡️. They're responsible for protecting an organization's computer systems and networks from cyber threats like hackers, malware, and data breaches.
+A cyber security analyst is like a digital guardian 🛡️. They're responsible for protecting an organization's computer systems and networks from cyber threats like hackers, malware, and data breaches.
 
 *Key responsibilities:*
 
 - Monitor systems for security breaches and incidents
-- Conduct vulnerability assessments and penetration testing
+- cybAnalystrityyrityystrity vulnerability assessments and penetration testing
 - Implement security measures like firewalls and encryption
 - Develop incident response plans
 - Stay updated on latest threats and trends
