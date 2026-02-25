@@ -1,4 +1,4 @@
-Linkreer-paths-in-tech
+Ar-paths-in-tech
 A collaborative guide by Lucy Wachu Kariuki, Dolla Grace, Martin Mburu Kinyanjui,Patrick Ngige Njoroge
 ## Table of contents 
 -[Introduction](#introduction)
@@ -47,7 +47,7 @@ This line was added to test commits.
 <!-- [Martin] will write this section -->
 
 ## Cybersecurity Analyst
-<A cyber security analyst is like a digital guardian 🛡️. They're responsible for protecting an organization's computer systems and networks from cyber threats like hackers, malware, and data breaches.
+A cybAnalystrity analyst is like a digital guardian 🛡️. They're responsible for protecting an organization's computer systems and networks from cyber threats like hackers, malware, and data breaches.
 
 *Key responsibilities:*
 
