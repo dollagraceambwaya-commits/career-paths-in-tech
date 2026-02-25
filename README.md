@@ -18,7 +18,7 @@ This project explores four major career paths in technology:
 - UX Designer  
 - Cybersecurity Analyst  
 
-Each section explains the role, key responsibilities, required skills, and potential career growth.
+Each section explains the role, key responsibilities, required skills, future trends, and potential career growth.
 
 ---
 
@@ -37,6 +37,10 @@ A **Software Developer** designs, builds, tests, and maintains software applicat
 - Problem-solving and logical thinking  
 - Version control systems (Git & GitHub)  
 - Understanding of databases  
+
+### Future Trends
+- AI-assisted coding tools  
+- Growth in cloud-native development and microservices  
 
 ### Career Growth
 Junior Developer → Senior Developer → Software Architect → Engineering Manager  
@@ -59,6 +63,10 @@ A **Data Scientist** works with data to extract insights that help organizations
 - SQL and database management  
 - Machine learning fundamentals  
 
+### Future Trends
+- Ethical AI  
+- Expansion of automated machine learning (AutoML)  
+
 ### Career Growth
 Data Analyst → Machine Learning Engineer → Senior Data Scientist → Chief Data Officer  
 
@@ -79,6 +87,10 @@ A **UX (User Experience) Designer** focuses on creating products that are intuit
 - Prototyping tools (Figma, Adobe XD)  
 - Communication skills  
 - User research methods  
+
+### Future Trends
+- AR/VR experiences  
+- Voice and gesture-based interfaces  
 
 ### Career Growth
 Junior UX Designer → Senior UX Designer → Product Designer → UX Lead  
@@ -101,6 +113,10 @@ A **Cybersecurity Analyst** protects computer systems, networks, and data from c
 - Security monitoring tools  
 - Risk assessment and incident response  
 
+### Future Trends
+- Increased focus on cloud security  
+- Rise of AI-powered threat detection  
+
 ### Career Growth
 Security Analyst → Security Engineer → Security Consultant → Chief Information Security Officer  
 
@@ -108,10 +124,10 @@ Security Analyst → Security Engineer → Security Consultant → Chief Informa
 
 ## Resources
 
-- https://www.freecodecamp.org/  
-- https://developer.mozilla.org/  
-- https://skills.github.com/  
-- https://pll.harvard.edu/course/cs50-introduction-computer-science  
+- [FreeCodeCamp](https://www.freecodecamp.org/)  
+- [MDN Web Docs](https://developer.mozilla.org/)  
+- [GitHub Skills](https://skills.github.com/)  
+- [Harvard CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science)  
 
 ---
 
